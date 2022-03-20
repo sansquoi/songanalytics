@@ -1,0 +1,19 @@
+,id,songs,song,artist,energy,dance,liveness,valence,tempo,instrumental,acoustic,popularity,genres
+0,0,Too Good Drake,Too Good,Drake,0.653,0.794,0.1,0.397,117.996,4.88e-05,0.0489,78,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+1,0,Trust Nobody Selena Gomez Tory Lanez Cashmere Cat,Trust Nobody (feat. Selena Gomez & Tory Lanez),Cashmere Cat,0.625,0.49,0.118,0.748,78.762,0,0.497,63,"['dance pop', 'downtempo', 'pop', 'post-teen pop', 'shiver pop']"
+2,0,Don't Wanna Know Maroon5 Kendrick Lamar,Don't Wanna Know (feat. Kendrick Lamar),Maroon 5,0.61,0.783,0.0983,0.418,100.047,0,0.343,66,"['pop', 'pop rock']"
+3,1,Put that on my set asap rocky ft skepta,Put that on my set asap rocky ft skepta,,,,,,,,,,
+4,1,High rhe beach lana del rey,High rhe beach lana del rey,,,,,,,,,,
+5,1,New level asap ferg,New Level (feat. Future),A$AP Ferg,0.655,0.526,0.116,0.156,121.127,0,0.0566,66,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+6,2,Fireproof Coleman Hell,Fireproof - Embody Remix,Coleman Hell,0.819,0.704,0.11,0.644,119.006,0.000334,0.0132,51,"['canadian pop', 'indie poptimism', 'pop rock']"
+7,2,Love on the Brain Rhianna,Love On The Brain,Rihanna,0.637,0.509,0.0789,0.378,172.006,1.08e-05,0.0717,85,"['barbadian pop', 'dance pop', 'pop', 'pop rap', 'urban contemporary']"
+8,2,This Girl Kungs vs Cookin' on 3 Burners,This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,0.717,0.792,0.226,0.466,121.985,3.59e-05,0.0927,80,"['edm', 'pop dance', 'tropical house']"
+9,3,Eyes Nose Lips TaeYang,Eyes Nose Lips,Epik High,0.576,0.687,0.141,0.322,144.021,0,0.283,53,"['k-pop', 'k-rap', 'korean old school hip hop', 'korean pop']"
+10,3,Me Like Yuh Jay Park,Me Like Yuh,Jay Park,0.831,0.715,0.132,0.805,100.006,3.99e-06,0.221,59,"['k-pop', 'k-rap', 'korean r&b']"
+11,3,Aquaman Jay Park,AQUAMAN,Jay Park,0.871,0.692,0.0507,0.731,97.03,0,0.0856,48,"['k-pop', 'k-rap', 'korean r&b']"
+12,4,Sugar Wanderlust,"The Nutcracker, Op. 71, TH.14: Dance Of The Sugar-Plum Fairy",Pyotr Ilyich Tchaikovsky,0.0855,0.577,0.121,0.254,119.125,0.805,0.983,14,"['classical', 'late romantic era', 'russian romanticism']"
+13,4,Blue Jeans Lana Del Ray,Blue Jeans,Lana Del Rey,0.837,0.558,0.0821,0.488,117.963,0,0.418,64,"['art pop', 'pop']"
+14,4,Mr. Bright side the killers,Mr. Brightside - The Lindbergh Palace Club Remix,The Killers,0.853,0.664,0.0742,0.962,138.992,0.0141,0.00627,20,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']"
+15,5,Look on Up Relient K,Look on Up,Relient K,0.383,0.433,0.125,0.269,83.713,9.67e-06,0.202,37,"['canadian ccm', 'christian alternative rock', 'christian music', 'christian punk', 'pop punk']"
+16,5,Money and Fame NeedToBreathe,MONEY & FAME,NEEDTOBREATHE,0.891,0.554,0.0905,0.454,154.012,1.47e-05,0.0686,47,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop', 'indiecoustica', 'neo mellow', 'worship']"
+17,5,Awakening Switchfoot,Awakening,Switchfoot,0.948,0.504,0.106,0.505,125.989,0.000162,0.0004,36,"['ccm', 'christian alternative rock', 'christian music', 'christian rock', 'neo mellow', 'pop rock', 'worship']"
