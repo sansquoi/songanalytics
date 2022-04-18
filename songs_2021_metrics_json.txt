@@ -1,0 +1,175 @@
+{"id":{"0":1,"1":2,"2":3,"3":4,"4":5,"5":6,"6":7,"7":8,"8":9,"9":10},"songs":{"0":"Levitating Dua Lipa","1":"Save Your Tears The Weeknd and Ariana Grande","2":"Blinding Lights The Weeknd","3":"Mood 24kGoldn featuring Iann Dior","4":"Good 4 U Olivia Rodrigo","5":"Kiss Me More Doja Cat featuring SZA","6":"Leave the Door Open Silk Sonic (Bruno Mars and Anderson .Paak)","7":"Drivers License Olivia Rodrigo","8":"Montero (Call Me by Your Name) Lil Nas X","9":"Peaches Justin Bieber featuring Daniel Caesar and Giveon"}}
+
+['spotify:track:5nujrmhLynf4yMoMtj8AQF']
+[
+    {
+        "danceability": 0.702,
+        "energy": 0.825,
+        "key": 6,
+        "loudness": -3.787,
+        "mode": 0,
+        "speechiness": 0.0601,
+        "acousticness": 0.00883,
+        "instrumentalness": 0,
+        "liveness": 0.0674,
+        "valence": 0.915,
+        "tempo": 102.977,
+        "type": "audio_features",
+        "id": "5nujrmhLynf4yMoMtj8AQF",
+        "uri": "spotify:track:5nujrmhLynf4yMoMtj8AQF",
+        "track_href": "https://api.spotify.com/v1/tracks/5nujrmhLynf4yMoMtj8AQF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5nujrmhLynf4yMoMtj8AQF",
+        "duration_ms": 203064,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:1EGf8RqJ3pGqVzumPYehuH']
+[
+    {
+        "danceability": 0.631,
+        "energy": 0.676,
+        "key": 0,
+        "loudness": -13.658,
+        "mode": 1,
+        "speechiness": 0.0296,
+        "acousticness": 0.0176,
+        "instrumentalness": 0.752,
+        "liveness": 0.278,
+        "valence": 0.862,
+        "tempo": 117.211,
+        "type": "audio_features",
+        "id": "1EGf8RqJ3pGqVzumPYehuH",
+        "uri": "spotify:track:1EGf8RqJ3pGqVzumPYehuH",
+        "track_href": "https://api.spotify.com/v1/tracks/1EGf8RqJ3pGqVzumPYehuH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1EGf8RqJ3pGqVzumPYehuH",
+        "duration_ms": 184493,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:0VjIjW4GlUZAMYd2vXMi3b']
+[
+    {
+        "danceability": 0.514,
+        "energy": 0.73,
+        "key": 1,
+        "loudness": -5.934,
+        "mode": 1,
+        "speechiness": 0.0598,
+        "acousticness": 0.00146,
+        "instrumentalness": 9.54e-05,
+        "liveness": 0.0897,
+        "valence": 0.334,
+        "tempo": 171.005,
+        "type": "audio_features",
+        "id": "0VjIjW4GlUZAMYd2vXMi3b",
+        "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+        "track_href": "https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VjIjW4GlUZAMYd2vXMi3b",
+        "duration_ms": 200040,
+        "time_signature": 4
+    }
+]
+
+Mood 24kGoldn featuring Iann Dior
+['spotify:track:4ZtFanR9U6ndgddUvNcjcG']
+[
+    {
+        "danceability": 0.563,
+        "energy": 0.664,
+        "key": 9,
+        "loudness": -5.044,
+        "mode": 1,
+        "speechiness": 0.154,
+        "acousticness": 0.335,
+        "instrumentalness": 0,
+        "liveness": 0.0849,
+        "valence": 0.688,
+        "tempo": 166.928,
+        "type": "audio_features",
+        "id": "4ZtFanR9U6ndgddUvNcjcG",
+        "uri": "spotify:track:4ZtFanR9U6ndgddUvNcjcG",
+        "track_href": "https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ZtFanR9U6ndgddUvNcjcG",
+        "duration_ms": 178147,
+        "time_signature": 4
+    }
+]
+
+Kiss Me More Doja Cat featuring SZA
+['spotify:track:02VBYrHfVwfEWXk5DXyf0T']
+[
+    {
+        "danceability": 0.586,
+        "energy": 0.616,
+        "key": 5,
+        "loudness": -7.964,
+        "mode": 1,
+        "speechiness": 0.0324,
+        "acousticness": 0.182,
+        "instrumentalness": 0,
+        "liveness": 0.0927,
+        "valence": 0.719,
+        "tempo": 148.088,
+        "type": "audio_features",
+        "id": "02VBYrHfVwfEWXk5DXyf0T",
+        "uri": "spotify:track:02VBYrHfVwfEWXk5DXyf0T",
+        "track_href": "https://api.spotify.com/v1/tracks/02VBYrHfVwfEWXk5DXyf0T",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/02VBYrHfVwfEWXk5DXyf0T",
+        "duration_ms": 242096,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:5wANPM4fQCJwkGd4rN57mH']
+[
+    {
+        "danceability": 0.561,
+        "energy": 0.431,
+        "key": 10,
+        "loudness": -8.81,
+        "mode": 1,
+        "speechiness": 0.0578,
+        "acousticness": 0.768,
+        "instrumentalness": 1.42e-05,
+        "liveness": 0.106,
+        "valence": 0.137,
+        "tempo": 143.875,
+        "type": "audio_features",
+        "id": "5wANPM4fQCJwkGd4rN57mH",
+        "uri": "spotify:track:5wANPM4fQCJwkGd4rN57mH",
+        "track_href": "https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wANPM4fQCJwkGd4rN57mH",
+        "duration_ms": 242013,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:1SC5rEoYDGUK4NfG82494W']
+[
+    {
+        "danceability": 0.593,
+        "energy": 0.503,
+        "key": 8,
+        "loudness": -6.725,
+        "mode": 0,
+        "speechiness": 0.22,
+        "acousticness": 0.293,
+        "instrumentalness": 0,
+        "liveness": 0.405,
+        "valence": 0.71,
+        "tempo": 178.781,
+        "type": "audio_features",
+        "id": "1SC5rEoYDGUK4NfG82494W",
+        "uri": "spotify:track:1SC5rEoYDGUK4NfG82494W",
+        "track_href": "https://api.spotify.com/v1/tracks/1SC5rEoYDGUK4NfG82494W",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SC5rEoYDGUK4NfG82494W",
+        "duration_ms": 137704,
+        "time_signature": 4
+    }
+]
+
+Peaches Justin Bieber featuring Daniel Caesar and Giveon
+features retrieved in 4.30 seconds
+

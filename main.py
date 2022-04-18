@@ -9,13 +9,15 @@ import spotipy.util as util
 from spotipy.oauth2 import SpotifyOAuth
 
 scope = 'user-library-read'
-if __name__ == '__main__':
-    # util.prompt_for_user_token("12167283276", scope, client_id='582a7ae4bd534e93ba02c6fba4e7eea3',
-    #                            client_secret='43fdeb78520142d1899bc49506e1aa26', redirect_uri='http://localhost:1410/')
-    # client_credentials_manager = SpotifyClientCredentials()
-    # sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-    file1 = open("MyFile.txt", "w")
+
+def getSongMetrics(filename):
+    jsonoutputfile = filename + "_metrics_json.txt"
+    csvoutputfile = filename + "_metrics_csv.csv"
+    inputfile = filename + ".csv"
+
+    # file1 = open("MyFile.txt", "w")
+    file1 = open(jsonoutputfile, "w")
 
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope, client_id='582a7ae4bd534e93ba02c6fba4e7eea3',
                                                    client_secret='43fdeb78520142d1899bc49506e1aa26',
@@ -23,7 +25,8 @@ if __name__ == '__main__':
     sp.trace = False
 
     # read and output the inputted excel sheet
-    songs_array = pd.read_csv('songs_only.csv')
+    # songs_array = pd.read_csv('songs_only.csv')
+    songs_array = pd.read_csv(inputfile)  # changed input file
     file1.write(songs_array.to_json())
     file1.write("\n\n")
     jsonDict = {}
@@ -95,10 +98,22 @@ if __name__ == '__main__':
     result = songs_array.join(df)
 
     # output the file to csv
-    result.to_csv('song_metrics.csv')
+    # result.to_csv('song_metrics.csv')
+    result.to_csv(csvoutputfile)
 
     # end timer and output how long the entire search took
     delta = time.time() - start
     file1.write("features retrieved in %.2f seconds" % (delta,))
     file1.write("\n\n")
     file1.close()
+
+
+if __name__ == '__main__':
+    # util.prompt_for_user_token("12167283276", scope, client_id='582a7ae4bd534e93ba02c6fba4e7eea3',
+    # client_secret='43fdeb78520142d1899bc49506e1aa26', redirect_uri='http://localhost:1410/')
+    # client_credentials_manager = SpotifyClientCredentials() sp = spotipy.Spotify(
+    # client_credentials_manager=client_credentials_manager)
+
+    songlist = ["songs_2019", "songs_2020", "songs_2021"]
+    for item in songlist:
+        getSongMetrics(item)

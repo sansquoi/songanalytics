@@ -1,0 +1,11 @@
+,id,songs,song,artist,energy,dance,liveness,valence,tempo,instrumental,acoustic,popularity,genres
+0,1,Levitating Dua Lipa,Levitating (feat. DaBaby),Dua Lipa,0.825,0.702,0.0674,0.915,102.977,0,0.00883,87,"['dance pop', 'pop', 'uk pop']"
+1,2,Save Your Tears The Weeknd and Ariana Grande,Save Your Tears (Remix) [Originally Performed by The Weeknd and Ariana Grande] [Instrumental],Vox Freaks,0.676,0.631,0.278,0.862,117.211,0.752,0.0176,13,[]
+2,3,Blinding Lights The Weeknd,Blinding Lights,The Weeknd,0.73,0.514,0.0897,0.334,171.005,9.54e-05,0.00146,91,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+3,4,Mood 24kGoldn featuring Iann Dior,Mood 24kGoldn featuring Iann Dior,,,,,,,,,,
+4,5,Good 4 U Olivia Rodrigo,good 4 u,Olivia Rodrigo,0.664,0.563,0.0849,0.688,166.928,0,0.335,93,['pop']
+5,6,Kiss Me More Doja Cat featuring SZA,Kiss Me More Doja Cat featuring SZA,,,,,,,,,,
+6,7,Leave the Door Open Silk Sonic (Bruno Mars and Anderson .Paak),Leave The Door Open,Bruno Mars,0.616,0.586,0.0927,0.719,148.088,0,0.182,84,"['dance pop', 'pop']"
+7,8,Drivers License Olivia Rodrigo,drivers license,Olivia Rodrigo,0.431,0.561,0.106,0.137,143.875,1.42e-05,0.768,90,['pop']
+8,9,Montero (Call Me by Your Name) Lil Nas X,MONTERO (Call Me By Your Name),Lil Nas X,0.503,0.593,0.405,0.71,178.781,0,0.293,86,"['lgbtq+ hip hop', 'pop']"
+9,10,Peaches Justin Bieber featuring Daniel Caesar and Giveon,Peaches Justin Bieber featuring Daniel Caesar and Giveon,,,,,,,,,,

@@ -1,0 +1,221 @@
+{"id":{"0":1,"1":2,"2":3,"3":4,"4":5,"5":6,"6":7,"7":8,"8":9,"9":10},"songs":{"0":"Old Town Road Lil Nas X featuring Billy Ray Cyrus","1":"Sunflower Post Malone and Swae Lee","2":"Without Me Halsey","3":"Bad Guy Billie Eilish","4":"Wow Post Malone","5":"Happier Marshmello and Bastille","6":"7 Rings Ariana Grande","7":"Talk Khalid","8":"Sicko Mode Travis Scott","9":"Sucker Jonas Brothers"}}
+
+Old Town Road Lil Nas X featuring Billy Ray Cyrus
+['spotify:track:3KkXRkHbMCARz0aVfEt68P']
+[
+    {
+        "danceability": 0.76,
+        "energy": 0.479,
+        "key": 2,
+        "loudness": -5.574,
+        "mode": 1,
+        "speechiness": 0.0466,
+        "acousticness": 0.556,
+        "instrumentalness": 0,
+        "liveness": 0.0703,
+        "valence": 0.913,
+        "tempo": 89.911,
+        "type": "audio_features",
+        "id": "3KkXRkHbMCARz0aVfEt68P",
+        "uri": "spotify:track:3KkXRkHbMCARz0aVfEt68P",
+        "track_href": "https://api.spotify.com/v1/tracks/3KkXRkHbMCARz0aVfEt68P",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KkXRkHbMCARz0aVfEt68P",
+        "duration_ms": 158040,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:5p7ujcrUXASCNwRaWNHR1C']
+[
+    {
+        "danceability": 0.752,
+        "energy": 0.488,
+        "key": 6,
+        "loudness": -7.05,
+        "mode": 1,
+        "speechiness": 0.0705,
+        "acousticness": 0.297,
+        "instrumentalness": 9.11e-06,
+        "liveness": 0.0936,
+        "valence": 0.533,
+        "tempo": 136.041,
+        "type": "audio_features",
+        "id": "5p7ujcrUXASCNwRaWNHR1C",
+        "uri": "spotify:track:5p7ujcrUXASCNwRaWNHR1C",
+        "track_href": "https://api.spotify.com/v1/tracks/5p7ujcrUXASCNwRaWNHR1C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5p7ujcrUXASCNwRaWNHR1C",
+        "duration_ms": 201661,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:2Fxmhks0bxGSBdJ92vM42m']
+[
+    {
+        "danceability": 0.701,
+        "energy": 0.425,
+        "key": 7,
+        "loudness": -10.965,
+        "mode": 1,
+        "speechiness": 0.375,
+        "acousticness": 0.328,
+        "instrumentalness": 0.13,
+        "liveness": 0.1,
+        "valence": 0.562,
+        "tempo": 135.128,
+        "type": "audio_features",
+        "id": "2Fxmhks0bxGSBdJ92vM42m",
+        "uri": "spotify:track:2Fxmhks0bxGSBdJ92vM42m",
+        "track_href": "https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Fxmhks0bxGSBdJ92vM42m",
+        "duration_ms": 194088,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:7xQAfvXzm3AkraOtGPWIZg']
+[
+    {
+        "danceability": 0.829,
+        "energy": 0.539,
+        "key": 11,
+        "loudness": -7.359,
+        "mode": 0,
+        "speechiness": 0.208,
+        "acousticness": 0.136,
+        "instrumentalness": 1.78e-06,
+        "liveness": 0.103,
+        "valence": 0.388,
+        "tempo": 99.96,
+        "type": "audio_features",
+        "id": "7xQAfvXzm3AkraOtGPWIZg",
+        "uri": "spotify:track:7xQAfvXzm3AkraOtGPWIZg",
+        "track_href": "https://api.spotify.com/v1/tracks/7xQAfvXzm3AkraOtGPWIZg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xQAfvXzm3AkraOtGPWIZg",
+        "duration_ms": 149547,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:6lr6gHKhGKmcmtOtRyyStU']
+[
+    {
+        "danceability": 0.687,
+        "energy": 0.792,
+        "key": 5,
+        "loudness": -2.749,
+        "mode": 1,
+        "speechiness": 0.0452,
+        "acousticness": 0.191,
+        "instrumentalness": 0,
+        "liveness": 0.167,
+        "valence": 0.671,
+        "tempo": 100.011,
+        "type": "audio_features",
+        "id": "6lr6gHKhGKmcmtOtRyyStU",
+        "uri": "spotify:track:6lr6gHKhGKmcmtOtRyyStU",
+        "track_href": "https://api.spotify.com/v1/tracks/6lr6gHKhGKmcmtOtRyyStU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lr6gHKhGKmcmtOtRyyStU",
+        "duration_ms": 214290,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:6ocbgoVGwYJhOv1GgI9NsF']
+[
+    {
+        "danceability": 0.778,
+        "energy": 0.317,
+        "key": 1,
+        "loudness": -10.732,
+        "mode": 0,
+        "speechiness": 0.334,
+        "acousticness": 0.592,
+        "instrumentalness": 0,
+        "liveness": 0.0881,
+        "valence": 0.327,
+        "tempo": 140.048,
+        "type": "audio_features",
+        "id": "6ocbgoVGwYJhOv1GgI9NsF",
+        "uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF",
+        "track_href": "https://api.spotify.com/v1/tracks/6ocbgoVGwYJhOv1GgI9NsF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ocbgoVGwYJhOv1GgI9NsF",
+        "duration_ms": 178627,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:6TqXcAFInzjp0bODyvrWEq']
+[
+    {
+        "danceability": 0.9,
+        "energy": 0.4,
+        "key": 0,
+        "loudness": -8.575,
+        "mode": 1,
+        "speechiness": 0.127,
+        "acousticness": 0.0516,
+        "instrumentalness": 0,
+        "liveness": 0.0599,
+        "valence": 0.346,
+        "tempo": 135.984,
+        "type": "audio_features",
+        "id": "6TqXcAFInzjp0bODyvrWEq",
+        "uri": "spotify:track:6TqXcAFInzjp0bODyvrWEq",
+        "track_href": "https://api.spotify.com/v1/tracks/6TqXcAFInzjp0bODyvrWEq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6TqXcAFInzjp0bODyvrWEq",
+        "duration_ms": 197573,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:2xLMifQCjDGFmkHkpNLD9h']
+[
+    {
+        "danceability": 0.834,
+        "energy": 0.73,
+        "key": 8,
+        "loudness": -3.714,
+        "mode": 1,
+        "speechiness": 0.222,
+        "acousticness": 0.00513,
+        "instrumentalness": 0,
+        "liveness": 0.124,
+        "valence": 0.446,
+        "tempo": 155.008,
+        "type": "audio_features",
+        "id": "2xLMifQCjDGFmkHkpNLD9h",
+        "uri": "spotify:track:2xLMifQCjDGFmkHkpNLD9h",
+        "track_href": "https://api.spotify.com/v1/tracks/2xLMifQCjDGFmkHkpNLD9h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xLMifQCjDGFmkHkpNLD9h",
+        "duration_ms": 312820,
+        "time_signature": 4
+    }
+]
+
+['spotify:track:22vgEDb5hykfaTwLuskFGD']
+[
+    {
+        "danceability": 0.842,
+        "energy": 0.734,
+        "key": 1,
+        "loudness": -5.065,
+        "mode": 0,
+        "speechiness": 0.0588,
+        "acousticness": 0.0427,
+        "instrumentalness": 0,
+        "liveness": 0.106,
+        "valence": 0.952,
+        "tempo": 137.958,
+        "type": "audio_features",
+        "id": "22vgEDb5hykfaTwLuskFGD",
+        "uri": "spotify:track:22vgEDb5hykfaTwLuskFGD",
+        "track_href": "https://api.spotify.com/v1/tracks/22vgEDb5hykfaTwLuskFGD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/22vgEDb5hykfaTwLuskFGD",
+        "duration_ms": 181027,
+        "time_signature": 4
+    }
+]
+
+features retrieved in 4.30 seconds
+
