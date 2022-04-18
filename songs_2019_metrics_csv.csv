@@ -1,11 +1,11 @@
-,id,songs,song,artist,energy,dance,liveness,valence,tempo,instrumental,acoustic,popularity,genres
-0,1,Old Town Road Lil Nas X Billy Ray Cyrus,Old Town Road - Remix,Lil Nas X,0.619,0.878,0.113,0.639,136.041,0,0.0533,81,"['lgbtq+ hip hop', 'pop']"
-1,2,Sunflower Post Malone and Swae Lee,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,0.479,0.76,0.0703,0.913,89.911,0,0.556,84,"['dfw rap', 'melodic rap', 'rap']"
-2,3,Without Me Halsey,Without Me,Halsey,0.488,0.752,0.0936,0.533,136.041,9.11e-06,0.297,79,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']"
-3,4,Bad Guy Billie Eilish,bad guy,Billie Eilish,0.425,0.701,0.1,0.562,135.128,0.13,0.328,85,"['art pop', 'electropop', 'pop']"
-4,5,Wow Post Malone,Wow.,Post Malone,0.539,0.829,0.103,0.388,99.96,1.78e-06,0.136,80,"['dfw rap', 'melodic rap', 'rap']"
-5,6,Happier Marshmello and Bastille,Happier,Marshmello,0.792,0.687,0.167,0.671,100.011,0,0.191,25,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']"
-6,7,7 Rings Ariana Grande,7 rings,Ariana Grande,0.317,0.778,0.0881,0.327,140.048,0,0.592,85,"['dance pop', 'pop']"
-7,8,Talk Khalid,Talk (feat. Disclosure),Khalid,0.4,0.9,0.0599,0.346,135.984,0,0.0516,73,"['pop', 'pop r&b']"
-8,9,Sicko Mode Travis Scott,SICKO MODE,Travis Scott,0.73,0.834,0.124,0.446,155.008,0,0.00513,83,"['hip hop', 'rap', 'slap house']"
-9,10,Sucker Jonas Brothers,Sucker,Jonas Brothers,0.734,0.842,0.106,0.952,137.958,0,0.0427,81,"['boy band', 'dance pop', 'pop', 'post-teen pop']"
+,id,songs,song,artist,energy,dance,liveness,valence,tempo,instrumental,acoustic,popularity,genres,sentiments
+0,1,Old Town Road Lil Nas X Billy Ray Cyrus,Old Town Road - Remix,Lil Nas X,0.619,0.878,0.113,0.639,136.041,0,0.0533,81,"['lgbtq+ hip hop', 'pop']",0.43134402734115623
+1,2,Sunflower Post Malone and Swae Lee,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,0.479,0.76,0.0703,0.913,89.911,0,0.556,84,"['dfw rap', 'melodic rap', 'rap']",0.32571987327404345
+2,3,Without Me Halsey,Without Me,Halsey,0.488,0.752,0.0936,0.533,136.041,9.11e-06,0.297,79,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",0.39228751540532886
+3,4,Bad Guy Billie Eilish,bad guy,Billie Eilish,0.425,0.701,0.1,0.562,135.128,0.13,0.328,85,"['art pop', 'electropop', 'pop']",0.0
+4,5,Wow Post Malone,Wow.,Post Malone,0.539,0.829,0.103,0.388,99.96,1.78e-06,0.136,80,"['dfw rap', 'melodic rap', 'rap']",0.7790439287279742
+5,6,Happier Marshmello and Bastille,Happier,Marshmello,0.792,0.687,0.167,0.671,100.011,0,0.191,25,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",0.6622679977825205
+6,7,7 Rings Ariana Grande,7 rings,Ariana Grande,0.317,0.778,0.0881,0.327,140.048,0,0.592,85,"['dance pop', 'pop']",0.6597064577481373
+7,8,Talk Khalid,Talk (feat. Disclosure),Khalid,0.4,0.9,0.0599,0.346,135.984,0,0.0516,73,"['pop', 'pop r&b']",0.33446027004811063
+8,9,Sicko Mode Travis Scott,SICKO MODE,Travis Scott,0.73,0.834,0.124,0.446,155.008,0,0.00513,83,"['hip hop', 'rap', 'slap house']",0.5062280500781102
+9,10,Sucker Jonas Brothers,Sucker,Jonas Brothers,0.734,0.842,0.106,0.952,137.958,0,0.0427,81,"['boy band', 'dance pop', 'pop', 'post-teen pop']",0.31323648400271
