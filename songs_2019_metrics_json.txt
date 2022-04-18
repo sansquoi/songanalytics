@@ -1,6 +1,29 @@
-{"id":{"0":1,"1":2,"2":3,"3":4,"4":5,"5":6,"6":7,"7":8,"8":9,"9":10},"songs":{"0":"Old Town Road Lil Nas X featuring Billy Ray Cyrus","1":"Sunflower Post Malone and Swae Lee","2":"Without Me Halsey","3":"Bad Guy Billie Eilish","4":"Wow Post Malone","5":"Happier Marshmello and Bastille","6":"7 Rings Ariana Grande","7":"Talk Khalid","8":"Sicko Mode Travis Scott","9":"Sucker Jonas Brothers"}}
+{"id":{"0":1,"1":2,"2":3,"3":4,"4":5,"5":6,"6":7,"7":8,"8":9,"9":10},"songs":{"0":"Old Town Road Lil Nas X Billy Ray Cyrus","1":"Sunflower Post Malone and Swae Lee","2":"Without Me Halsey","3":"Bad Guy Billie Eilish","4":"Wow Post Malone","5":"Happier Marshmello and Bastille","6":"7 Rings Ariana Grande","7":"Talk Khalid","8":"Sicko Mode Travis Scott","9":"Sucker Jonas Brothers"}}
 
-Old Town Road Lil Nas X featuring Billy Ray Cyrus
+['spotify:track:2YpeDb67231RjR0MgVLzsG']
+[
+    {
+        "danceability": 0.878,
+        "energy": 0.619,
+        "key": 6,
+        "loudness": -5.56,
+        "mode": 1,
+        "speechiness": 0.102,
+        "acousticness": 0.0533,
+        "instrumentalness": 0,
+        "liveness": 0.113,
+        "valence": 0.639,
+        "tempo": 136.041,
+        "type": "audio_features",
+        "id": "2YpeDb67231RjR0MgVLzsG",
+        "uri": "spotify:track:2YpeDb67231RjR0MgVLzsG",
+        "track_href": "https://api.spotify.com/v1/tracks/2YpeDb67231RjR0MgVLzsG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YpeDb67231RjR0MgVLzsG",
+        "duration_ms": 157067,
+        "time_signature": 4
+    }
+]
+
 ['spotify:track:3KkXRkHbMCARz0aVfEt68P']
 [
     {
@@ -217,5 +240,5 @@ Old Town Road Lil Nas X featuring Billy Ray Cyrus
     }
 ]
 
-features retrieved in 4.30 seconds
+features retrieved in 5.29 seconds
 

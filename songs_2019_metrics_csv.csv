@@ -1,5 +1,5 @@
 ,id,songs,song,artist,energy,dance,liveness,valence,tempo,instrumental,acoustic,popularity,genres
-0,1,Old Town Road Lil Nas X featuring Billy Ray Cyrus,Old Town Road Lil Nas X featuring Billy Ray Cyrus,,,,,,,,,,
+0,1,Old Town Road Lil Nas X Billy Ray Cyrus,Old Town Road - Remix,Lil Nas X,0.619,0.878,0.113,0.639,136.041,0,0.0533,81,"['lgbtq+ hip hop', 'pop']"
 1,2,Sunflower Post Malone and Swae Lee,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,0.479,0.76,0.0703,0.913,89.911,0,0.556,84,"['dfw rap', 'melodic rap', 'rap']"
 2,3,Without Me Halsey,Without Me,Halsey,0.488,0.752,0.0936,0.533,136.041,9.11e-06,0.297,79,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']"
 3,4,Bad Guy Billie Eilish,bad guy,Billie Eilish,0.425,0.701,0.1,0.562,135.128,0.13,0.328,85,"['art pop', 'electropop', 'pop']"
